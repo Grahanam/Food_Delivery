@@ -25,11 +25,22 @@ Used BloC architecture for state management
    ```
 
 ### App Screenshot
-![Home Screen:](https://github.com/user-attachments/assets/a197312b-066e-4620-907c-a378f71cb635)
-![Menu Screen:](https://github.com/user-attachments/assets/2908aa98-0fb4-4d59-9583-df2d109d9f28)
-![Checkout Screen:](https://github.com/user-attachments/assets/57199c79-f383-4e48-8651-cdbb76669dad)
-![Order Placed Screen:](https://github.com/user-attachments/assets/e62127a4-862b-41ed-99ed-d5c6131cb275)
-![Order Screen:](https://github.com/user-attachments/assets/d5852276-cdfe-4f5f-a15d-45b3b16c07ec)
+
+| Home Screen | Menu Screen |
+|--------------|--------------|
+| ![Home Screen:](https://github.com/user-attachments/assets/a197312b-066e-4620-907c-a378f71cb635) | ![Menu Screen:](https://github.com/user-attachments/assets/2908aa98-0fb4-4d59-9583-df2d109d9f28) |
+
+| Checkout Screen | Order Placed Screen |
+|-----------------|---------------------|
+|![Checkout Screen:](https://github.com/user-attachments/assets/57199c79-f383-4e48-8651-cdbb76669dad) | ![Order Placed Screen:](https://github.com/user-attachments/assets/e62127a4-862b-41ed-99ed-d5c6131cb275) |
+
+| Order Screen |
+|---------------|
+| ![Order Screen:](https://github.com/user-attachments/assets/d5852276-cdfe-4f5f-a15d-45b3b16c07ec) |
+
+
+
+
 
 
 
