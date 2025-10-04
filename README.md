@@ -35,7 +35,7 @@ Used BloC architecture for state management
 |![Checkout Screen:](https://github.com/user-attachments/assets/57199c79-f383-4e48-8651-cdbb76669dad) | ![Order Placed Screen:](https://github.com/user-attachments/assets/e62127a4-862b-41ed-99ed-d5c6131cb275) |
 
 | Order Screen | |
-|---------------||---------------|
+|---------------|---------------|
 | ![Order Screen:](https://github.com/user-attachments/assets/d5852276-cdfe-4f5f-a15d-45b3b16c07ec) | |
 
 
